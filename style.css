@@ -1,0 +1,22 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%; 
+    /*grid-template-columns: repeat(auto-fill, minmax(320px, 1920px));*/
+    grid-column: 1 / 3;
+    grid-template-areas:
+    "logo menu"
+    "about_me about_me"
+    "project project"
+    "skills photo"
+    "work work"
+    "task task"
+    "micro micro"
+    "form form"
+    "copyright social";
+    margin: 0 auto;
+    width: 1920px;
+    position: relative;
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+    height: 100vh;
+}
