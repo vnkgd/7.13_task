@@ -363,23 +363,32 @@ p,
 }
 
 .v1_123 {
-    width: 1920px;
+    /* width: 1920px;
     height: 1004px;
-    background: url("img/v1_123.png");
+      background: url("img/v1_123.png"); 
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    /* top: 1962px; */
+    /* top: 1962px; 
     left: 0px;
     overflow: hidden;
+*/
+    position: absolute;
+    width: 1110px;
+    height: 600px;
+    left: 405px;
+    top: 2266px;
+    
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("img/v1_123.png");
+
 }
 
 .v1_124 {
     width: 100px;
     height: 100px;
-    background: rgba(255,255,255,1);
+    background: url("img/v1_123.png");
     opacity: 1;
     position: absolute;
     top: 554px;
