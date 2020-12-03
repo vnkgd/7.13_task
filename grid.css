@@ -188,7 +188,7 @@ p,
     opacity: 1;
     position: absolute;
     top: 655px;
-    left: 553px;
+    left: 595px;
     overflow: hidden;
 }
 
@@ -210,15 +210,16 @@ p,
     width: 403px;
     color: rgba(0,0,0,1);
     position: absolute;
-    top: 757px;
+    top: 751.5px;
     left: 0px;
     font-family: Roboto;
-    font-weight: Medium;
+    font-weight: 500;
     font-size: 32px;
     opacity: 1;
     text-align: left;
 }
 
+/*
 .v24126_0 {
     width: 100px;
     height: 100px;
@@ -232,6 +233,7 @@ p,
     left: 289px;
     overflow: hidden;
 }
+*/
 
 .v1_112 {
     width: 445px;
@@ -259,10 +261,10 @@ p,
     width: 128px;
     color: rgba(113,113,113,1);
     position: absolute;
-    top: 837px;
+    top: 835px;
     left: 1px;
     font-family: Roboto;
-    font-weight: Regular;
+    font-weight: 400;
     font-size: 16px;
     opacity: 1;
     text-align: left;
@@ -294,7 +296,7 @@ p,
     width: 128px;
     color: rgba(113,113,113,1);
     position: absolute;
-    top: 906px;
+    top: 904px;
     left: 1px;
     font-family: Roboto;
     font-weight: Regular;
@@ -329,10 +331,10 @@ p,
     width: 128px;
     color: rgba(113,113,113,1);
     position: absolute;
-    top: 975px;
+    top: 973px;
     left: 1px;
     font-family: Roboto;
-    font-weight: Regular;
+    font-weight: 400;
     font-size: 16px;
     opacity: 1;
     text-align: left;
@@ -985,7 +987,7 @@ p,
 .v1_173 {
     width: 43px;
     height: 40px;
-    background: url("img/vk-social-network-logo.png");
+    background: url("img/v1_173.png");
     background-size: contain;
     opacity: 1;
     position: absolute;
