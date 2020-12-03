@@ -184,6 +184,7 @@ p,
     width: 555px;
     height: 450px;
     background: url("img/face.png");
+    background-size: contain;
     opacity: 1;
     position: absolute;
     top: 655px;
