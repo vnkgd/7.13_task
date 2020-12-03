@@ -183,7 +183,7 @@ p,
 .v1_109 {
     width: 555px;
     height: 450px;
-    background: rgba(196,196,196,1);
+    background: url("img/face.png");
     opacity: 1;
     position: absolute;
     top: 655px;
