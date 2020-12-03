@@ -363,25 +363,17 @@ p,
 }
 
 .v1_123 {
-    /* width: 1920px;
-    height: 1004px;
-      background: url("img/v1_123.png"); 
+    width: 100%;
+    height: 600px;
+    /* background: url("img/v1_123.png");*/ 
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    /* top: 1962px; 
-    left: 0px;
-    overflow: hidden;
-*/
-    position: absolute;
-    width: 1110px;
-    height: 600px;
+    top: 304px; 
     left: 405px;
-    top: 2266px;
-    
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("img/v1_123.png");
+    overflow: hidden;
 
 }
 
@@ -462,7 +454,7 @@ p,
 .v1_130 {
     width: 480px;
     height: 480px;
-    background: rgba(196,196,196,1);
+    background: url("img/v1_132.png");
     opacity: 1;
     position: absolute;
     top: 0px;
