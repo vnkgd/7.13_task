@@ -382,7 +382,7 @@ p,
     background: rgba(255,255,255,1);
     opacity: 1;
     position: absolute;
-    top: 554px;
+    /* top: 554px; */
     left: 910px;
     overflow: hidden;
 }
