@@ -379,7 +379,7 @@ p,
 .v1_124 {
     width: 100px;
     height: 100px;
-    background: rgba(255,255,255,1);
+    background: url("img/play-button.png");
     opacity: 1;
     position: absolute;
     top: 554px;
