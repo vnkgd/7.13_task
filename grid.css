@@ -877,7 +877,7 @@ p,
     left: 406px;
     font-family: Roboto;
     font-weight: Medium;
-    font-size: 21px;
+    font-size: 18px;
     opacity: 1;
     text-align: left;
 }
@@ -1007,7 +1007,7 @@ p,
 .v1_175 {
     width: 43px;
     height: 22px;
-    background: rgba(255,255,255,1);
+    background: url("img/vk-social-network-logo.png");
     opacity: 1;
     position: absolute;
     top: 0px;
